@@ -13,4 +13,6 @@ We are also launching a fun new program: our blog! Stay tuned for more details, 
 
 If you have any questions (or find any glitches/bugs on the new site!) feel free to email me at awissink@cps.edu.
 
+Also, don't forget to donate to our [GoFundMe](https://www.gofundme.com/payton-best-buddies-yearly-expenses)!
+
 Have a great Thanksgiving break!
