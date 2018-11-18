@@ -19,7 +19,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://github.com/awissink/wpcpbb" # the base hostname & protocol for your site
-cover: "/assets/headerimage.jpg"
+cover: "/assets/headerimage.JPG"
 logo: "/assets/logo.png"
 
 # Build settings
