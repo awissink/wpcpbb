@@ -1,17 +1,9 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/logo.png" title="Best Buddies" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
-
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+"Best Buddies International is a nonprofit 501(c)(3) organization dedicated to establishing a global volunteer movement that creates opportunities for one-to-one friendships, integrated employment and leadership development for people with intellectual and developmental disabilities (IDD). Best Buddies Friendship programs represent one of our organization’s three key mission pillars. These programs build one-to-one friendships between people with and without IDD, offering social mentoring while improving the quality of life and level of inclusion for a population that is often isolated and excluded. Through their participation, people with IDD form meaningful connections with their peers, gain self-confidence and self-esteem, and share interests, experiences and activities that many other individuals enjoy." -<i>Best Buddies International</i>
