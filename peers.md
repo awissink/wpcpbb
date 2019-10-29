@@ -3,66 +3,58 @@ layout: page
 title: Peer Buddies
 permalink: /peers/
 ---
+Introducing our 2019-2020 Buddy Pairs!
 <table cellspacing="0" cellpadding="0">
   <tr>
     <th>Buddies</th><th>Peer Buddies</th>
   </tr>
-  <tr>
-    <td>Jayden</td><td>Charlie Pillsbury</td>
-  </tr>
   <tr class="even">
-    <td>Hanna</td><td>Harper Robbins</td>
+    <td>Hannah</td><td>Harper Robbins</td>
   </tr>
   <tr>
-    <td>Taydra</td><td>Claire McDermott</td>
+    <td>Diego</td><td>Bennett</td>
   </tr>
   <tr>
-    <td>Rachel</td><td>Lucy Weaver</td>
-  </tr>
-  <tr>
-    <td>Kevin</td><td>Ryan Trotter and Bryce Smith</td>
-  </tr>
-  <tr>
-    <td>Mack</td><td>Claire Atkerson</td>
+    <td>KJ</td><td>Nate</td>
   </tr>
   <tr>
     <td>Hannibal</td><td>Louie Taiber</td>
   </tr>
   <tr>
-    <td>Kimberly</td><td>Sam Brody, Amelia Wissink, and Katherine Midura</td>
+    <td>Kimberly</td><td>Sam Brody, Amelia Wissink, Katherine Midura, and Alessandra Torres</td>
   </tr>
   <tr>
-    <td>David</td><td>Drew Heinig</td>
+    <td>Christian</td><td>Sarah</td>
   </tr>
   <tr>
-    <td>Sean</td><td>Roberto Morales</td>
+    <td>Sean</td><td>Ryan</td>
   </tr>
   <tr>
-    <td>Valerie</td><td>Emmy Smith</td>
+    <td>Janiyah</td><td>Caitlin</td>
   </tr>
   <tr>
-    <td>Michael</td><td>Connor Annulis and Zach Anderson</td>
+    <td>Michael</td><td>Graeme</td>
   </tr>
   <tr>
-    <td>Janiyah</td><td>Abby Gracia</td>
+    <td>Giada</td><td>Kelsey Bentrem</td>
   </tr>
   <tr>
-    <td>Mike</td><td>Niko Vasilopoulos</td>
+    <td>Jamon</td><td>Niko Vasilopoulos</td>
   </tr>
   <tr>
     <td>Rosa</td><td>Natalie Rosenbaum</td>
   </tr>
   <tr>
-    <td>Isra</td><td>Sophie Gibson</td>
+    <td>Israa</td><td>Sophie Gibson</td>
   </tr>
   <tr>
     <td>Jeremy</td><td>Lucy Zises</td>
   </tr>
   <tr>
-    <td>Wilfredo</td><td>Andrea Sorto</td>
+    <td>Zulhasnat</td><td>Shaafi Flener</td>
   </tr>
   <tr>
-    <td>Yurhynest</td><td>Henry Persons</td>
+    <td>Yurhynest</td><td>Lucy Gold</td>
   </tr>
   <tr>
     <td>Sayed</td><td>Ben Wilen</td>
