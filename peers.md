@@ -9,7 +9,7 @@ permalink: /peers/
     <th>Buddies</th><th>Peer Buddies</th>
   </tr>
   <tr class="even">
-    <td>Hannah</td><td>Harper Robbins</td>
+    <td>Hannah</td><td>Harper</td>
   </tr>
   <tr>
     <td>Diego</td><td>Bennett</td>
@@ -18,10 +18,10 @@ permalink: /peers/
     <td>KJ</td><td>Nate</td>
   </tr>
   <tr>
-    <td>Hannibal</td><td>Louie Taiber</td>
+    <td>Hannibal</td><td>Louie</td>
   </tr>
   <tr>
-    <td>Kimberly</td><td>Sam Brody, Amelia Wissink, Katherine Midura, and Alessandra Torres</td>
+    <td>Kimberly</td><td>Sam, Amelia, Katherine, and Alessandra</td>
   </tr>
   <tr>
     <td>Christian</td><td>Sarah</td>
@@ -36,27 +36,27 @@ permalink: /peers/
     <td>Michael</td><td>Graeme</td>
   </tr>
   <tr>
-    <td>Giada</td><td>Kelsey Bentrem</td>
+    <td>Giada</td><td>Kelsey</td>
   </tr>
   <tr>
-    <td>Jamon</td><td>Niko Vasilopoulos</td>
+    <td>Jamon</td><td>Niko</td>
   </tr>
   <tr>
-    <td>Rosa</td><td>Natalie Rosenbaum</td>
+    <td>Rosa</td><td>Natalie</td>
   </tr>
   <tr>
-    <td>Israa</td><td>Sophie Gibson</td>
+    <td>Israa</td><td>Sophie</td>
   </tr>
   <tr>
-    <td>Jeremy</td><td>Lucy Zises</td>
+    <td>Jeremy</td><td>Lucy</td>
   </tr>
   <tr>
-    <td>Zulhasnat</td><td>Shaafi Flener</td>
+    <td>Zulhasnat</td><td>Shaafi</td>
   </tr>
   <tr>
-    <td>Yurhynest</td><td>Lucy Gold</td>
+    <td>Yurhynest</td><td>Lucy</td>
   </tr>
   <tr>
-    <td>Sayed</td><td>Ben Wilen</td>
+    <td>Sayed</td><td>Ben</td>
   </tr>
 </table>
