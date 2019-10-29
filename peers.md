@@ -3,7 +3,7 @@ layout: page
 title: Peer Buddies
 permalink: /peers/
 ---
-Introducing our 2019-2020 Buddy Pairs!
+**Introducing our 2019-2020 Buddy Pairs!**
 <table cellspacing="0" cellpadding="0">
   <tr>
     <th>Buddies</th><th>Peer Buddies</th>
