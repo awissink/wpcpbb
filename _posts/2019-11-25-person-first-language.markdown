@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "11/25: Person-First Language"
-date:   2019-11-30 05:30:59
+date:   2019-11-25 05:30:59
 author: Harper Robbins
 categories: Advocacy
 #tags:	best buddies
