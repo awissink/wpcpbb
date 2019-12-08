@@ -7,6 +7,7 @@ categories: Advocacy
 ---
 
 **Nate & KJ**
+
 Nate and KJ were our November buddy pair of the month! KJ was very excited to eat a yummy lunch of Domino’s pizza, Parmesan bites and chocolate lava cakes with Nate in room 146, and Nate had this to say about their friendship:
 
 “Me and KJ have a great friendship. We enjoy being around each other.  I like being paired with KJ because he always has a smile on his face and is very energetic. He makes Best Buddies the best part of my day no matter what.“
