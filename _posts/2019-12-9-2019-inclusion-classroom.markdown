@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "12/9: Inclusion in the Classroom"
-date:   2019-12-06 05:30:59
+date:   2019-12-09 05:30:59
 author: Harper Robbins
 categories: Advocacy
 ---
