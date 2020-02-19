@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2/10: Mission Monday: Prom!"
-date:   2020-2-7 05:30:59
+date:   2020-2-10 05:30:59
 author: Harper Robbins
 categories: Advocacy
 ---
