@@ -2,7 +2,7 @@
 layout: post
 title:  "3/23: World Down Syndrome Day"
 date:   2020-3-23 05:30:59
-author: Harper Robbins
+author: Sophie Gibson
 categories: Advocacy
 ---
 
