@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "9/7: Chapter of the Year!"
-date:   2020-9-07 05:30:59
+title:  "9/11: Chapter of the Year!"
+date:   2020-9-11 05:30:59
 author: Lucy Zises
 categories: Advocacy
 ---
