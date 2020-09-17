@@ -12,5 +12,6 @@ Educatingalllearners.org was launched last Wednesday, and has been an amazing re
 
 Educatingalllearners.org has a plethora of resources available to make virtual learning accessible and inclusive for all students, and is a great step in the fight for an inclusive world. To learn more check out the following sites:
 
-https://eala.wpengine.com/
-https://edsource.org/2020/new-website-offers-tips-for-teachers-about-virtual-special-education/628741
+[Educating All Learners](https://eala.wpengine.com/)
+
+[EdSource](https://edsource.org/2020/new-website-offers-tips-for-teachers-about-virtual-special-education/628741)
