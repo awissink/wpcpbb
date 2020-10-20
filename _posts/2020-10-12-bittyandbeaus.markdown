@@ -11,5 +11,5 @@ Welcome to our first feature of National Disability Awareness Month (NDEAM)! Thi
 If you want to support the company, check out their shop section, where you can purchase coffee beans, apparel, dining ware, and more! Additionally, check back in the coming weeks to read about other organizations and companies like Bitty and Beau’s that push for inclusion every day.
 
 To read more, visit
-- [Bitty & Beau's Coffee | It's More Than A Cup Of Coffee](https://www.bittyandbeauscoffee.com/)
+- [Bitty & Beau's Coffee](https://www.bittyandbeauscoffee.com/)
 - [Southern Made: Bitty & Beau's Coffee Shop](https://www.southernliving.com/culture/bitty-and-beaus-coffee-shop-video)
