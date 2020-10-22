@@ -4,7 +4,6 @@ title: Pods
 permalink: /pods/
 ---
 
-**2020-21 Pods!**
 
 ***portaPODies***
 - Leader: Jessica M

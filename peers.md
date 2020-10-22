@@ -4,7 +4,6 @@ title: Peer Buddies
 permalink: /peers/
 ---
 
-**2020-21 Buddy Pairs**
 
 - Christian and Sarah
 - David, Graeme and Ryan
