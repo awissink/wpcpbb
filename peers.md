@@ -23,4 +23,5 @@ permalink: /peers/
 - Rosa and Natalie
 - Sayyd and Katie
 - Valerie and Danielle
+- Yurhynest and Lucy G
 - Zulhasnat and Shaafi
