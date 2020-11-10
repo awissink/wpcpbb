@@ -13,4 +13,4 @@ While these gaps exist, different groups and organizations are working to bridge
 To learn more, visit
 - [The Disability Pay Gap](https://www.equalityhumanrights.com/sites/default/files/research-report-107-the-disability-pay-gap.pdf)
 - [People With Disabilities Aren’t Entitled to the Minimum Wage](https://www.thenation.com/article/archive/people-with-disabilities-minimum-wage/)
-- [Disabled people deserve equal pay, too. Let’s start fighting for it | Mary O’Hara](https://www.theguardian.com/society/2019/feb/26/disabled-deserve-equal-pay)
+- [Disabled people deserve equal pay, too. Let’s start fighting for it](https://www.theguardian.com/society/2019/feb/26/disabled-deserve-equal-pay)
