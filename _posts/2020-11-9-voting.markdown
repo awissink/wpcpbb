@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "11/9: Voting Accessibility"
+date:   2020-11-09 05:30:59
+author: Sophie Gibson
+categories: Advocacy
+---
+
+As many are aware, the 2020 presidential election is one like no other. Amid a shifting social and political climate, voters also had to consider navigating through the COVID 19 pandemic as they made their choices and set out to vote. For many, this election season was difficult for a plethora of reasons. Despite the variety of limitations that many voters faced, some states worked to ensure that everyone, regardless of identity or disability would be able to vote. In West Virginia, a secure online solution was available to voters in the military and those with disabilities to make sure their voices were heard. According to Tusk Philanthropies, “West Virginia is implementing online voting for a second time in their primary elections in June. West Virginia was the first state in the nation to pilot online voting in 2018 for overseas and military voters. Given the success of last year’s pilot for UOCAVA voters, Secretary of State Mac Warner led the effort to make West Virginia the second state in the nation to offer online voting for certain citizens with disabilities.” Additionally, Senate Bill 94, passed earlier this year by the state, allows those with disabilities that limit access to in person voting to receive, mark, and return ballots by mail or electronically. This was accessible to registered voters, who were able to use smartphones, tablets, or computers to send in their votes.
+
+These steps taken by West Virginia are crucial in ensuring that anyone, regardless of disability, is able to express their vote and exercise their rights. Amid a world where voting for those with disabilities is hindered by a variety of barriers, West Virginia is expanding options to promote an inclusive voting culture. As stated by Bradley Tusk, the CEO and founder of Tusk Philanthropies, “This health pandemic is proof that we need additional secure and accessible options for voting. The need for mobile voting as an option in our elections could not be clearer. We need to be able to provide additional voting solutions for members of the disabled community for when polling places are shut down amid a crisis, and for those that can’t access the polls even when we’re not in the middle of a pandemic. We need more innovative elected officials like Secretary Warner and the WV legislature who continue to push for new solutions to increase turnout in elections.”
+
+We hope to see more states implement policies and services that allow anyone to voice their opinion and right to vote in the coming years, but for now, a big step in inclusion has been made by West Virginia. Way to go!
+
+To learn more, visit
+- [mobilevoting.org](https://mobilevoting.org/2020/04/west-virginia-expands-online-voting-option-in-upcoming-primary-election-for-citizens-with-disabilities/)
+- [NBC News](https://www.nbcnews.com/tech/security/west-virginia-plans-make-smartphone-voting-available-disabled-people-2020-n1127931)
