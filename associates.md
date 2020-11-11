@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Associate Members
+title: New Members
 permalink: /associates/
 ---
 
-**Please check back soon!**
+**Interested in joining Payton Best Buddies? We'd love to have you!**
+
+Please register on [Best Buddies Online](bestbuddiesonline.org), and email [wpcpbestbuddies@gmail.com](mailto:wpcpbestbuddies@gmail.com) for information about enrichments!
