@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "10/19: NDEAM Feature: IBM"
+date:   2020-10-19 05:30:59
+author: Sophie Gibson
+categories: Advocacy
+---
+
+This week we’ll take a look at an international employer that promotes inclusion in the workplace year round, IBM. IBM is “a global technology company that provides hardware, software, cloud-based services and cognitive computing. Founded in 1911 following the merger of four companies in New York State by Charles Ranlett Flint, it was originally called Computing-Tabulating-Recording Company.”  For more than a century, IBM has worked to provide innovations in technology, and has promoted inclusion along the way. In 1914, three years after its inception, IBM hired its first employee with a disability, a huge step for the early 20th century, where abundant stigmas against those with disabilities largely prevented employment.
+
+More than 106 years later, IBM is still going strong with its mission of inclusion, and ensures the unity of accessibility efforts worldwide. As stated, “IBM has merged existing accessibility groups to form a worldwide Human Ability and Accessibility Center (HA&AC) with locations in the United States, Europe, Japan, Brazil, India, China and Australia. The HA&AC fosters product accessibility, works toward the harmonization of worldwide standards, applied research technologies to solve problems experienced by people with disabilities and the maturing population, creates industry-focused solutions and generates accessibility awareness.” IBM maintains this dedication as they advocate for those with disabilities through the following: maintaining favorable hiring practices, sponsoring education and employment opportunities which include programs for children with disabilities that prepare them for careers, as well as career counseling. Listed below are a few of IBM’s recruitment and hiring efforts that center on those with disabilities.
+
+- Entry Point is an IBM internship program that provides an excellent opportunity for students with disabilities to get on-the-job experience in their majors and learn about the many careers IBM has to offer nationwide.
+- Project Able is an IBM diversity recruitment program that offers people with disabilities the chance to explore IBM careers nationwide.
+- Project View is a recruiting program that was established in the 1970s to reach outstanding college candidates of diverse backgrounds. The program was expanded in 1995 to include women and people with disabilities.
+
+Additionally, IBM provides a range of assistive tech and other accommodations to ensure that those with disabilities can succeed in the workplace. These include but are not limited to providing travel assistance for employees with mobility impairments, captioning videotapes and providing sign language interpreters and note takers for classes and meetings for employees who are deaf or hard of hearing, and constructing ramps, power doors, parking facilities and other accommodations to provide access for people with impaired mobility.
+
+IBM continues to create an equitable environment where all employees, regardless of disability can truly thrive. To read even more about these efforts, visit any of the below links. Way to go, IBM!
+
+- [ibm.com](https://www.ibm.com/blogs/age-and-ability/2018/10/26/ndeam-recognizing-progress-and-potential/)
+- [IBM's Approach](https://www.ibm.com/able/access_ibm/downloads/accessibility_at_IBM_an_integrated_approach_accessible.pdf)
