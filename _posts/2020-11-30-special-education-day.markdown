@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11/30: Voting Accessibility"
+title:  "11/30: National Special Education Day"
 date:   2020-11-30 05:30:59
 author: Sophie Gibson
 categories: Advocacy
