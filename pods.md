@@ -39,7 +39,7 @@ permalink: /pods/
 - Casey L
 - Nayeli S
 
-***Pod Squadß***
+***Pod Squad***
 - Leader: Norah D
 - Shea V
 - Tess S
