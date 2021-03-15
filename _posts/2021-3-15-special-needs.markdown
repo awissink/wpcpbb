@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3/15: The Problem with Saying "Special Needs""
+title:  "3/15: The Problem with Saying Special Needs"
 date:   2021-3-15 05:30:59
 author: Katie Gillespie
 categories: Advocacy
